@@ -8,4 +8,4 @@ homepage : https://curihus.tistory.com
 Preview Image:  
 <img src="/image/1.PNG" alt ="Data" style="width: 700px;"/>  
 
-This bot is not optimized, efficient.
+This bot supports Korean.
