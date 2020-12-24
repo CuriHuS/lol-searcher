@@ -9,11 +9,11 @@ Preview Image:
 <img src="/image/1.PNG" alt ="Data" style="width: 700px;"/>  
 
 
-ver: 2.0(20201220)
+ver: 2.0(20201220)  
 get data from Riot API  
 Experiment comparing the speed of versions 1.1 and 2.0 can be found on the my website(tistory).   
 
-Preview Image:
+Preview Image:  
 <img src="/image/2.png" alt="Data" style="width: 700px;"/>
 
 These bots support Korean.
