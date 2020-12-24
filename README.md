@@ -14,6 +14,6 @@ get data from Riot API
 Experiment comparing the speed of versions 1.1 and 2.0 can be found on the my website(tistory).   
 
 Preview Image:
-<img src="/image/2.PNG" alt="Data" style="width: 700px;"/>
+<img src="/image/2.png" alt="Data" style="width: 700px;"/>
 
 These bots support Korean.
