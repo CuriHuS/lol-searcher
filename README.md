@@ -2,6 +2,7 @@
 > 디스코드(Discord)에서 사용할 수 있는 롤 전적검색 봇
 
 ## lol-searcher 2.0
+> Get data from Riot Games API
 <img src="/image/2.png" alt="Data" style="width: 700px;"/>
 
 ## lol-searcher 1.1
