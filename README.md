@@ -1,19 +1,26 @@
 # lol-searcher
-league of legends Tier, Rank search through op.gg site
+> 디스코드(Discord)에서 사용할 수 있는 롤 전적검색 봇
 
-developer : CuriHuS  
-ver: 1.1(20201029)  
-website : https://curihus.tistory.com  
-
-Preview Image:  
-<img src="/image/1.PNG" alt ="Data" style="width: 700px;"/>  
-
-
-ver: 2.0(20201220)  
-get data from Riot API  
-Experiment comparing the speed of versions 1.1 and 2.0 can be found on the my website(tistory).   
-
-Preview Image:  
+## lol-searcher 2.0
 <img src="/image/2.png" alt="Data" style="width: 700px;"/>
 
-These bots support Korean.
+## lol-searcher 1.1
+> ver1.1 through op.gg site
+<img src="/image/1.PNG" alt ="Data" style="width: 700px;"/>
+
+
+
+## 업데이트 내역
+
+* 2.0(20201220)
+    * 기존 op.gg 데이터를 받아오는 방식에서 Riot API를 직접 받아오는 방식으로 변경
+* 1.1(20201029)
+    * UI 업데이트: 닉네임을 누르면 해당 유저의 op.gg 사이트로 이동합니다
+    * 주목할 만한 챔피언: 일정 표본 이상의 모스트 챔피언 중 승률이 가장 높은 챔피언을 보여줍니다
+    * 띄어쓰기 검색: 띄어쓰기를 포함해도 닉네임을 인식합니다
+* 1.0
+    * 첫 출시: 디스코드 롤 전적 검색 봇
+
+### 1.x vs 2.0 비교 
+> 두 버전의 속도를 비교한 실험 결과를 볼 수 있습니다.
+https://curihus.tistory.com/7?category=435780
