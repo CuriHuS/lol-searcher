@@ -24,4 +24,4 @@
 
 ### 1.x vs 2.0 비교 
 > 두 버전의 속도를 비교한 실험 결과를 볼 수 있습니다.
-https://curihus.tistory.com/7?category=435780
+https://curihus.tistory.com/9
