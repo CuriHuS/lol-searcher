@@ -3,6 +3,7 @@
 
 ## lol-searcher 2.1
 > Code change according to Riot API usage change
+<img src="/image/3.png" alt="Data" style="width: 700px;"/>
 
 ## lol-searcher 2.0
 > Get data from Riot Games API
